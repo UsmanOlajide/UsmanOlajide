@@ -1,4 +1,4 @@
-### Hi there 👋 welcome to my Flutter world. In my repos you'll find great projects I've worked on, some are big & some are small, either way I'm glad you made it here.
+### Hi there 👋 welcome to my Flutter world. In my repos you'll find great projects I've worked on. I'm glad you made it here.
 
 <!--
 **UsmanOlajide/UsmanOlajide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
